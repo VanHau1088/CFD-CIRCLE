@@ -1,0 +1,22 @@
+input {
+    border: none solid rgb(185, 182, 182);
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+select,
+option {
+    padding: 5px 10px;
+}
+
+textarea {
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px 10px;
+    background: rgb(106, 106, 236);
+    border: none;
+    color: aliceblue;
+    border-radius: 3px;
+}
